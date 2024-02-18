@@ -11,5 +11,5 @@ Welcome to Dungeon Calculator, a web-based calculator with a dungeon-themed inte
 
 ## Screenshots
 
-![Screenshot 1]([link-to-screenshot-1](https://www.canva.com/design/DAF9K25MmmE/9-CTe0jq8Tly1FLwuTuumg/edit?utm_content=DAF9K25MmmE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)https://www.canva.com/design/DAF9K25MmmE/9-CTe0jq8Tly1FLwuTuumg/edit?utm_content=DAF9K25MmmE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Screenshot 1](https://www.canva.com/design/DAF9K25MmmE/9-CTe0jq8Tly1FLwuTuumg/edit?utm_content=DAF9K25MmmE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
